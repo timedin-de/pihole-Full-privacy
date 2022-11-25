@@ -1,17 +1,49 @@
 # Title: TimedIn/pihole-full-privacy
 #
 # This is an agressive blocklist for non privacy services (will definitely break a lot of apps and websites)
+# Not containing typical advertisers and trackers already blocked by default blocklists
+
+#Amazon
+m.media-amazon.com
+www.amazon.de
+www.amazon.com
+
+#Cloudflare
+cloudflare.com
 
 #Facebook
+facebook.net
+#[*.facebook.com]
 facebook.com
 star-mini.c10r.facebook.com
+graph.facebook.com
 
 #Google
+app-measurement.com
+adservice.google.com
 crashlytics.com
+clients3.google.com
 doubleclick.com
-googleapis.com
+google-analytics.com
+ocsp.pki.goog
+#[*.googletagmanager.com]
 googletagmanager.com
+www.googletagmanager.com
+#[*.googleapis.com]
+googleapis.com
+www.googleapis.com
+ajax.googleapis.com
+play.googleapis.com
+jnn-pa.googleapis.com
+fonts.googleapis.com
+firebaseinstallations.googleapis.com
+firebaseremoteconfig.googleapis.com
+#[firebaselogging-*.googleapis.com]
+firebaselogging-pa.googleapis.com
+#[*.gstatic.com]
 gstatic.com
+www.gstatic.com
+fonts.gstatic.com
 #[*.google.com]
 google.com
 play.google.com
@@ -43,9 +75,16 @@ sf16-short-va.bytedapm.com
 
 #Twitter
 twitter.com
+t.co
+#[*.twimg.com]
+pbs.twimg.com
 
 #Xiaomi (Huami)
+mi.com
+xiaomi.com
+#[*.huami.com]
 huami.com
+api-mifit-de2.huami.com
 #[*.mi.com]
 de.ot.io.mi.com
 de.ots.io.mi.com
@@ -63,5 +102,6 @@ search.yandex.net
 
 #Youtube (Google)
 youtube.com
+www.youtube.com
 accounts.youtube.com
 youtu.be
