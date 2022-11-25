@@ -18,6 +18,7 @@ Not containing typical advertisers and trackers already blocked by default block
 - Google (PlayStore ...)
 - Instagram
 - Meta
+- Microsoft
 - TikTok
 - Twitter
 - Xiaomi (Phone, IoT updates, crashlogs...)

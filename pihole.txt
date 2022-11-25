@@ -57,6 +57,22 @@ instagram.com
 #Meta
 meta.com
 
+#Microsoft
+microsoft.com
+bing.com
+www.bing.com
+live.com
+login.live.com
+storage.live.com
+browser.events.data.microsoft.com
+wcpstatic.microsoft.com
+office.net
+azure.com
+msn.com
+skype.com
+onedrive.com
+
+
 #TikTok (Bytedance) 
 #[*.tiktok.com]
 tiktok.com
@@ -80,8 +96,8 @@ t.co
 pbs.twimg.com
 
 #Xiaomi (Huami)
-mi.com
-xiaomi.com
+www.mi.com
+www.xiaomi.com
 #[*.huami.com]
 huami.com
 api-mifit-de2.huami.com
