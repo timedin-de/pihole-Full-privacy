@@ -1,0 +1,64 @@
+# Title: TimedIn/pihole-full-privacy
+#
+# This is an agressive blocklist for non privacy services (will definitely break a lot of apps and websites)
+
+#Facebook
+facebook.com
+star-mini.c10r.facebook.com
+
+#Google
+crashlytics.com
+doubleclick.com
+googleapis.com
+googletagmanager.com
+gstatic.com
+#[*.google.com]
+google.com
+play.google.com
+search.google.com
+images.google.com
+#Youtube (Google)
+youtube.com
+accounts.youtube.com
+
+#Instagram
+instagram.com
+
+#Meta
+meta.com
+
+#TikTok (Bytedance) 
+#[*.tiktok.com]
+tiktok.com
+mcs-va.tiktok.com
+#[*.byteoversea.com]
+mon-va.byteoversea.com
+#[*.tiktokcdn.com]
+p16-sign-sg.tiktokcdn.com
+p16-sign-va.tiktokcdn.com
+p77-sign-va.tiktokcdn.com
+s20-sign-va.tiktokcdn.com
+#[*.ibytedtos.com]
+sf16-scmcdn-va.ibytedtos.com
+#[*.bytedapm.com]
+sf16-short-va.bytedapm.com
+
+#Twitter
+twitter.com
+
+#Xiaomi (Huami)
+huami.com
+#[*.mi.com]
+de.ot.io.mi.com
+de.ots.io.mi.com
+
+#Yandex
+[*.yandex.*]
+yandex.com
+search.yandex.com
+appmetrica.yandex.com
+extmaps-api.yandex.net
+yandex.ru
+search.yandex.ru
+yandex.net
+search.yandex.net
