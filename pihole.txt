@@ -96,8 +96,8 @@ t.co
 pbs.twimg.com
 
 #Xiaomi (Huami)
-mi.com
-xiaomi.com
+www.mi.com
+www.xiaomi.com
 #[*.huami.com]
 huami.com
 api-mifit-de2.huami.com
