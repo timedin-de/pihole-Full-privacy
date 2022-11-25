@@ -10,11 +10,15 @@ www.amazon.com
 
 #Cloudflare
 cloudflare.com
+dash.cloudflare.com
+cdn.cloudflare.com
+
 
 #Facebook
 facebook.net
 #[*.facebook.com]
 facebook.com
+www.facebook.com
 star-mini.c10r.facebook.com
 graph.facebook.com
 
@@ -46,6 +50,7 @@ www.gstatic.com
 fonts.gstatic.com
 #[*.google.com]
 google.com
+www.google.com
 play.google.com
 search.google.com
 images.google.com
@@ -59,23 +64,35 @@ meta.com
 
 #Microsoft
 microsoft.com
+www.microsoft.com
 bing.com
 www.bing.com
 live.com
+www.live.com
 login.live.com
+www.login.live.com
 storage.live.com
+www.storage.live.com
 browser.events.data.microsoft.com
+www.browser.events.data.microsoft.com
 wcpstatic.microsoft.com
+www.wcpstatic.microsoft.com
 office.net
+www.office.net
 azure.com
+www.azure.com
 msn.com
+www.msn.com
 skype.com
+www.skype.com
 onedrive.com
+www.onedrive.com
 
 
 #TikTok (Bytedance) 
 #[*.tiktok.com]
 tiktok.com
+www.tiktok.com
 mcs-va.tiktok.com
 #[*.byteoversea.com]
 mon-va.byteoversea.com
@@ -91,15 +108,19 @@ sf16-short-va.bytedapm.com
 
 #Twitter
 twitter.com
+www.twitter.com
 t.co
 #[*.twimg.com]
 pbs.twimg.com
 
 #Xiaomi (Huami)
+mi.com
 www.mi.com
+xiaomi.com
 www.xiaomi.com
 #[*.huami.com]
 huami.com
+www.huami.com
 api-mifit-de2.huami.com
 #[*.mi.com]
 de.ot.io.mi.com
@@ -108,6 +129,8 @@ de.ots.io.mi.com
 #Yandex
 #[*.yandex.*]
 yandex.com
+www.yandex.com
+
 search.yandex.com
 appmetrica.yandex.com
 extmaps-api.yandex.net
