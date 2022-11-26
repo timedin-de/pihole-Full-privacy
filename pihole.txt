@@ -243,6 +243,7 @@ google.co.zw
 google.cat
 
 #[*.google.com]
+accounts.google.com
 ads.google.com
 adsense.google.com
 analytics.google.com
