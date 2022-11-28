@@ -4,7 +4,8 @@
 # Not containing typical advertisers and trackers already blocked by default blocklists
 ##########################Apple############################
 cdn2.smoot.apple.com
-
+xp.apple.com
+xp.itunes-apple.com.akadns.net
 ##########################Amazon###########################
 m.media-amazon.com
 www.amazon.de
