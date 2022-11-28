@@ -13,6 +13,7 @@ Not containing typical advertisers and trackers already blocked by default block
 - Apps using google-firebase etc.
 
 ### Direct/Completely blocked first-parties
+- Apple (Spotlight)
 - Cloudflare (not affecting proxied sites, only tracking etc)
 - Facebook
 - Google (PlayStore ...)

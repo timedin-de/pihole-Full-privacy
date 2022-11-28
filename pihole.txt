@@ -2,6 +2,8 @@
 #
 # This is an agressive blocklist for non privacy services (will definitely break a lot of apps and websites)
 # Not containing typical advertisers and trackers already blocked by default blocklists
+##########################Apple############################
+cdn2.smoot.apple.com
 
 ##########################Amazon###########################
 m.media-amazon.com
