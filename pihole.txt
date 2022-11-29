@@ -3,9 +3,12 @@
 # This is an agressive blocklist for non privacy services (will definitely break a lot of apps and websites)
 # Not containing typical advertisers and trackers already blocked by default blocklists
 ##########################Apple############################
+icloud.com
+me.com
+#[*.apple.com]
+apple.com
 cdn2.smoot.apple.com
 xp.apple.com
-xp.itunes-apple.com.akadns.net
 ##########################Amazon###########################
 m.media-amazon.com
 www.amazon.de
@@ -297,6 +300,9 @@ translate.google.com
 videos.google.com
 workspace.google.com
 www.google.com
+#DE
+translate.google.de
+www.google.de
 ##########################Instagram########################
 instagram.com
 ##########################Meta#############################
@@ -346,7 +352,6 @@ sf16-short-va.bytedapm.com
 twitter.com
 www.twitter.com
 t.co
-
 #[*.twimg.com]
 pbs.twimg.com
 ##########################Xiaomi(Huami)####################
@@ -361,6 +366,12 @@ api-mifit-de2.huami.com
 #[*.mi.com]
 de.ot.io.mi.com
 de.ots.io.mi.com
+##########################WhatsApp#########################
+#[*.whatsapp.com]
+whatsapp.com
+mmx-ds.cdn.whatsapp.net
+v.whatsapp.net
+chat.cdn.whatsapp.net
 ##########################Yandex###########################
 #[*.yandex.*]
 yandex.com
@@ -379,5 +390,6 @@ accounts.youtube.com
 youtu.be
 youtubeeducation.com
 youtube-nocookie.com
+m.youtube.com
 yt.be
 ###########################################################
